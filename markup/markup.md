@@ -39,7 +39,7 @@ Format: `[Display Text](Link)`
 
 - Link with guidement: [NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
 
-- Relative reference: [상대적 참조](../users/_login)  
+- Relative reference: `[상대적 참조](later...)`
   
 - Reference Link :  
   - [Google][Google link]  
